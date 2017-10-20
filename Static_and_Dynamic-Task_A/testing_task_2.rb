@@ -22,7 +22,6 @@ end
 
 def looper
   for i in (1..10)
-    puts i
   end
   return i
 end
